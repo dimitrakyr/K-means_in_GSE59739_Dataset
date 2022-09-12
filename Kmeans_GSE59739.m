@@ -119,5 +119,3 @@ fprintf('\nPercentage of variance attributed to the 1st Principal Component: %f\
 fprintf('Percentage of variance attributed to the 2st Principal Component: %f', explained(2))
 
 fprintf('\n\nEnd Of Programme')
-
-
